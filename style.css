@@ -1,0 +1,46 @@
+:root {
+    background-image: url(./assets/beach.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header {
+    font-family:'Courier New', Courier, monospace;
+    padding: 5px 5px;
+    background-color: #bfbfbf;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    position: sticky;
+    align-items: center;
+    position: -webkit-sticky;
+    top: 0;
+    background-size: cover;
+    background-position: 80%;
+    z-index: 9999;
+}
+
+.full-menu {
+    margin-left: 10px;
+}
+
+.menu{
+   font-size: larger;
+}
+
+.products {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    max-width: 300px;
+    color: aliceblue;
+    background-color: rgb(150, 150, 222);
+    margin: 10px;
+}
+
+.box{
+    padding: 2px 16px;
+}
+
+.everything{ 
+    
+}
