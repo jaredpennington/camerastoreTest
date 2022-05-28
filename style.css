@@ -61,6 +61,7 @@ height: 300px;
     display: flex;
     flex-wrap: wrap;
     margin: 5px;
+    margin-bottom: 12%;
     justify-content: center;
 }
 
@@ -70,6 +71,3 @@ height: 300px;
     
 }
 
-.reviews {
-    
-}
